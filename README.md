@@ -8,15 +8,15 @@ Rust-focused software engineer building languages, graphics tools, and experimen
 
 ## What I work on
 
-📜 **bevy_scriptum**
+📜 [**bevy_scriptum**](https://github.com/jarkonik/bevy_scriptum) 
+![Stars](https://img.shields.io/github/stars/jarkonik/bevy_scriptum?style=flat)
 
 Scripting integration for Bevy that blends runtime flexibility with Rust’s architecture.
-https://github.com/jarkonik/bevy_scriptum
 
-🪨 **rocklang**
+🪨 [**rocklang**](https://github.com/jarkonik/rocklang) 
+![Stars](https://img.shields.io/github/stars/jarkonik/rocklang?style=flat)
 
 JIT-compiled programming language focused on experimentation, performance, and flexible abstractions.
-https://github.com/jarkonik/rocklang
 
 ---
 
@@ -54,14 +54,7 @@ I value software that is:
 * performance-aware without premature complexity
 * built as tools, not trends
 
-When something does not exist, I tend to design and build it.
-
----
-
-## Projects
-
-* rocklang – https://github.com/jarkonik/rocklang
-* bevy_scriptum – https://github.com/jarkonik/bevy_scriptum
+When something does not exist, I tend to design and build it. 
 
 ---
 
