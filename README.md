@@ -8,15 +8,17 @@ Rust-focused software engineer building languages, graphics tools, and experimen
 
 ## What I work on
 
+📜 **bevy_scriptum**
+
+Scripting integration for Bevy that blends runtime flexibility with Rust’s architecture.
+https://github.com/jarkonik/bevy_scriptum
+
 🪨 **rocklang**
 
 JIT-compiled programming language focused on experimentation, performance, and flexible abstractions.
 https://github.com/jarkonik/rocklang
 
-📜 **bevy_scriptum**
-
-Scripting integration for Bevy that blends runtime flexibility with Rust’s architecture.
-https://github.com/jarkonik/bevy_scriptum
+---
 
 My work frequently touches:
 
@@ -24,6 +26,7 @@ My work frequently touches:
 * compilers and scripting systems
 * rendering and graphics programming
 * systems-level development
+* embedded development
 * fullstack web developement
 
 
@@ -35,7 +38,7 @@ My work frequently touches:
 Rust · Ruby · Python · Go · TypeScript
 
 **Focus Areas:**
-graphics pipelines · language tooling · backend services · automation
+graphics · language tooling · backend services · automation · embedded · guis
 
 **Environment:**
 Linux · terminal-first workflows · reproducible dev setups
