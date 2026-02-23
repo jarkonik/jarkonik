@@ -9,10 +9,12 @@ Rust-focused software engineer building languages, graphics tools, and experimen
 ## What I work on
 
 🪨 **rocklang**
+
 JIT-compiled programming language focused on experimentation, performance, and flexible abstractions.
 https://github.com/jarkonik/rocklang
 
 📜 **bevy_scriptum**
+
 Scripting integration for Bevy that blends runtime flexibility with Rust’s architecture.
 https://github.com/jarkonik/bevy_scriptum
 
