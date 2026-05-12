@@ -35,7 +35,7 @@ My work frequently touches:
 ## Tech Stack
 
 **Primary:**
-Rust · Ruby · Python · Go · TypeScript
+Rust · Ruby · Python · Go · TypeScript · C · C++
 
 **Focus Areas:**
 graphics · language tooling · backend services · automation · embedded · guis
