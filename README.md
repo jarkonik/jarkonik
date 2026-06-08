@@ -25,18 +25,6 @@ Pure Rust `embedded-io-async` and `embedded-hal` based driver for SIMCom `a76xx`
 
 ---
 
-My work frequently touches:
-
-* language design & tooling
-* compilers and scripting systems
-* rendering and graphics programming
-* systems-level development
-* embedded development
-* fullstack web developement
-
-
----
-
 ## Tech Stack
 
 **Primary:**
@@ -45,32 +33,8 @@ Rust · Ruby · Python · Go · TypeScript · C · C++
 **Focus Areas:**
 graphics · language tooling · backend services · automation · embedded · guis
 
-**Environment:**
-Linux · terminal-first workflows · reproducible dev setups
-
----
-
-## Philosophy
-
-I value software that is:
-
-* minimal and intentional
-* architecturally clear
-* performance-aware without premature complexity
-* built as tools, not trends
-
-When something does not exist, I tend to design and build it. 
-
 ---
 
 ## About
 
 Software engineer from Poland focused on building expressive and high-performance tools.
-Interested in programming languages, graphics, and systems that push beyond conventional boundaries.
-
----
-
-## Links
-
-* GitHub Pages: https://jarkonik.github.io
-* All repositories: https://github.com/jarkonik?tab=repositories
