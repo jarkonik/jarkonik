@@ -37,4 +37,4 @@ graphics · language tooling · backend services · automation · embedded · gu
 
 ## About
 
-Software engineer from Poland focused on building expressive and high-performance tools.
+Software engineer from Kraków, Poland focused on building expressive and high-performance tools.
