@@ -18,6 +18,11 @@ Scripting integration for Bevy that blends runtime flexibility with Rust’s arc
 
 JIT-compiled programming language focused on experimentation, performance, and flexible abstractions.
 
+🪨 [**a76xx**](https://github.com/jarkonik/a76xx) 
+![Stars](https://img.shields.io/github/stars/jarkonik/a76xx?style=flat)
+
+Pure Rust `embedded-io-async` and `embedded-hal` based driver for SIMCom `a76xx` family of modems.
+
 ---
 
 My work frequently touches:
